@@ -29,6 +29,9 @@ Datasets:
 Download links:
 https://www.10xgenomics.com/resources/datasets
 
+## Transformer Architecture
+![Transformer](single_cell_transformer_architecture.svg)
+
 ## Outputs
 
 ### Attention Visualization

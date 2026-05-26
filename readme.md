@@ -24,7 +24,7 @@ The project uses publicly available PBMC datasets from 10x Genomics.
 
 Datasets:
 - PBMC3k
-- PBMC10k
+- PBMC5k / PBMC10k
 
 Download links:
 https://www.10xgenomics.com/resources/datasets

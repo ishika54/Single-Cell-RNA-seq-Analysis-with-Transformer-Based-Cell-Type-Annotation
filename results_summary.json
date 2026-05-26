@@ -1,0 +1,15 @@
+{
+  "transformer_accuracy": 0.9564393939393939,
+  "rf_accuracy": 0.9583333333333334,
+  "n_epochs": 60,
+  "n_genes": 2013,
+  "n_classes": 6,
+  "classes": [
+    "B cells",
+    "CD14+ Monocytes",
+    "CD4+ T cells",
+    "Dendritic cells",
+    "NK / CD8+ T cells",
+    "Platelets"
+  ]
+}

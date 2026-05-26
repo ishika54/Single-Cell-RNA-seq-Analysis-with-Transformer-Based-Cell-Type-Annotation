@@ -1,0 +1,12 @@
+{
+  "same_dataset": {
+    "rf_accuracy": 0.9583333333333334,
+    "transformer_accuracy": 0.9564393939393939
+  },
+  "cross_dataset_pbmc10k": {
+    "rf_mean_confidence": 0.784109947643979,
+    "transformer_mean_confidence": 0.961592435836792,
+    "rf_transformer_agreement": 0.7277486910994765,
+    "n_new_cells": 191
+  }
+}

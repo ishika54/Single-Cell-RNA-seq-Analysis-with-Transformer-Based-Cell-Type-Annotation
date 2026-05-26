@@ -1,0 +1,9 @@
+```text id="u4a5c3"
+__pycache__/
+.ipynb_checkpoints/
+*.log
+data/
+*.npy
+.env
+```
+

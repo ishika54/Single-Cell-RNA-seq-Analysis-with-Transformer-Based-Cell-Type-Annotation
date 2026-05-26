@@ -17,6 +17,18 @@ Transformer-based single-cell RNA-seq analysis pipeline featuring:
 - Gene-level immune representation learning
 - Attention visualization for unseen datasets
 
+
+## Dataset
+
+The project uses publicly available PBMC datasets from 10x Genomics.
+
+Datasets:
+- PBMC3k
+- PBMC5k / PBMC10k
+
+Download links:
+https://www.10xgenomics.com/resources/datasets
+
 ## Outputs
 
 ### Attention Visualization

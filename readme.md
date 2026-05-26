@@ -32,7 +32,7 @@ https://www.10xgenomics.com/resources/datasets
 ## Outputs
 
 ### Attention Visualization
-![Attention](outputs/attention_visualization.png)
+![Attention](outputs/attention_comprehensive.png)
 
 ### Transfer Attention
 ![Transfer](outputs/stage3_attention_new_dataset.png)
